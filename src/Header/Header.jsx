@@ -3,7 +3,7 @@ export const Header = () => {
     return (
         <div className = 'header-all'> 
             <h1 className = 'title-name'>
-                <p>Todo App</p>
+                <p>Shirokus's App</p>
             </h1>
             <ul className = "nav-list">
                 <li className = "nav-list-item">

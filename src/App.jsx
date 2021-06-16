@@ -6,7 +6,6 @@ export const App = () => {
   return (
     <div>
     <Headaer />
-    <p>Todo App</p>
     <TodoList />
     <Button text = "追加する" disabled = {true}/>
     <Footer />
